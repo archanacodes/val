@@ -1,0 +1,157 @@
+.a{
+    display: flex;
+    height: 100vh;
+    width: 200vh;
+    flex-direction: column;
+}
+.a1{
+    display:flex;
+   height: 20vh;
+   width: 200vh;
+   background-color: aqua;
+   justify-content: center;
+   align-items: center;
+   font-style: oblique;
+  
+}
+
+.a2{
+    display: flex;
+    height: 60vh;
+   width: 200vh;
+   background-color: pink;
+   flex-direction: row;
+   justify-content: space-evenly;
+   align-items: center;
+  
+   
+}
+.b1{
+    display:flex;
+    height: 50vh;
+   width: 40vh;
+   background-color: aqua;
+   justify-content: center;
+   align-items: center;  
+   border-radius: 3vh;
+    font-style: italic;
+} 
+
+.b2{
+   display: flex;
+    height: 50vh;
+    width: 140vh;
+    background-color: palevioletred;
+    flex-direction: column;
+    border-radius: 3vh;
+    font-style: italic;
+}
+  
+.c1{
+    display: flex;
+    height: 20vh;
+    width: 140vh;
+    background-color: palevioletred;
+    justify-content: center;
+    align-items:self-end;
+    border-radius: 3vh;
+    font-style: italic;
+}
+.t{
+    display: flex;
+    height: 10vh;
+    width:50vh;
+    font-size: 3vh;
+    justify-content: center;
+    align-items: center;
+    background-color: lightpink;
+    border-radius: 3vh;
+    font-style: italic;
+}
+.c2{
+    display: flex;
+    height: 30vh;
+    width: 140vh;
+    background-color: palevioletred;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items:center;
+    border-radius: 10vh;
+    font-style: italic;
+}
+
+.b21{
+    display: flex;
+    height: 20vh;
+    width: 25vh;
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10vh;
+    font-style: italic;
+    color: white;
+   
+}
+.b22{
+    display: flex;
+    height: 20vh;
+    width: 25vh;
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10vh;
+    font-style: italic;
+    color: white;
+   
+}
+
+.b23{
+    display: flex;
+    height: 20vh;
+    width: 25vh;
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10vh;
+    font-style: italic;
+    color: white;
+    
+}
+.b24{
+    display: flex;
+    height: 20vh;
+    width: 25vh;
+    background-color: blue;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10vh;
+    font-style: italic;
+    color: white;
+   
+}
+
+
+.a3{
+    display:flex;
+    height: 20vh;
+    width: 200vh;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    font-style: oblique;
+}
+.b21:hover{
+ background-color: black;
+}
+.b22:hover{
+    background-color: black;
+   }
+ .b23:hover{
+    background-color: black;
+   }
+   .b24:hover{
+    background-color: black;
+   }
+.b1:hover{
+    font-size: 5vh;
+}
